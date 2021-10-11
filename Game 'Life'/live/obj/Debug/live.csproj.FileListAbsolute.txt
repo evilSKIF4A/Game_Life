@@ -1,0 +1,20 @@
+E:\так-так-так а шо это\Курсовая\live\live\bin\Debug\live.exe.config
+E:\так-так-так а шо это\Курсовая\live\live\bin\Debug\live.exe
+E:\так-так-так а шо это\Курсовая\live\live\bin\Debug\live.pdb
+E:\так-так-так а шо это\Курсовая\live\live\obj\Debug\live.csproj.AssemblyReference.cache
+E:\так-так-так а шо это\Курсовая\live\live\obj\Debug\live.Form1.resources
+E:\так-так-так а шо это\Курсовая\live\live\obj\Debug\live.Properties.Resources.resources
+E:\так-так-так а шо это\Курсовая\live\live\obj\Debug\live.csproj.GenerateResource.cache
+E:\так-так-так а шо это\Курсовая\live\live\obj\Debug\live.csproj.CoreCompileInputs.cache
+E:\так-так-так а шо это\Курсовая\live\live\obj\Debug\live.exe
+E:\так-так-так а шо это\Курсовая\live\live\obj\Debug\live.pdb
+E:\Первый курс\так-так-так а шо это\Курсовая\live\live\bin\Debug\live.exe.config
+E:\Первый курс\так-так-так а шо это\Курсовая\live\live\bin\Debug\live.exe
+E:\Первый курс\так-так-так а шо это\Курсовая\live\live\bin\Debug\live.pdb
+E:\Первый курс\так-так-так а шо это\Курсовая\live\live\obj\Debug\live.csproj.AssemblyReference.cache
+E:\Первый курс\так-так-так а шо это\Курсовая\live\live\obj\Debug\live.Form1.resources
+E:\Первый курс\так-так-так а шо это\Курсовая\live\live\obj\Debug\live.Properties.Resources.resources
+E:\Первый курс\так-так-так а шо это\Курсовая\live\live\obj\Debug\live.csproj.GenerateResource.cache
+E:\Первый курс\так-так-так а шо это\Курсовая\live\live\obj\Debug\live.csproj.CoreCompileInputs.cache
+E:\Первый курс\так-так-так а шо это\Курсовая\live\live\obj\Debug\live.exe
+E:\Первый курс\так-так-так а шо это\Курсовая\live\live\obj\Debug\live.pdb
